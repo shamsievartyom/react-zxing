@@ -1,3 +1,5 @@
+# This is react-zxing fork with up-to-date dependencies
+
 <div align="center">
   <h1>
     <br/>
